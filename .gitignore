@@ -1,0 +1,14 @@
+# Environments
+venv/
+.env
+
+# Data and CSVs (Crucial KPI)
+data/
+*.csv
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Python Cache
+__pycache__/
+*.pyc
