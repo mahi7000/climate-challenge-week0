@@ -1,8 +1,3 @@
-Below is the content for your `README.md` file, formatted according to the requirements for your **8:00 PM UTC Interim Submission**. You can copy and paste this directly into your file.
-
-***
-
-```markdown
 # African Climate Trend Analysis (Week 0)
 
 ## Overview
