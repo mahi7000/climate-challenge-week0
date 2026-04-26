@@ -1,0 +1,16 @@
+# Data Manipulation and Analysis
+pandas
+numpy
+scipy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Interactive Dashboard (Optional/Task 4)
+streamlit
+
+# Jupyter Notebook support
+notebook
+ipykernel
